@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shaofeng Kang</h1>
-<h3 align="center">I am a forth year student from University of Toronto.</h3>
+<h3 align="center">I am a fourth-year student at the University of Toronto studying Quantitative Finance and Financial Management.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=robkang1234&label=Profile%20views&color=0e75b6&style=flat" alt="robkang1234" /> </p>
 
